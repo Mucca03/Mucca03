@@ -1,4 +1,40 @@
-## Hi there 👋
+<h2> Hi, I'm Mauricio Bernal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
+<p><em>Software Developer | Backend & Systems Enthusiast 🧠  
+Currently exploring <b>Node.js</b>, <b>Linux</b> customization and backend architectures.</em></p>
+
+[![Linkedin: Alejandro Bernal](https://img.shields.io/badge/-alejandro--bernal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandro-bernal-577686260/)](https://www.linkedin.com/in/alejandro-bernal-577686260/)
+[![GitHub Mucca03](https://img.shields.io/github/followers/Mucca03?label=follow&style=social)](https://github.com/Mucca03)
+
+---
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const mucca = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "Node.js", "PHP", "C++", "SQL"],
+  tools: ["Express", "Bootstrap", "Git", "Linux", "Bash"],
+  interests: ["backend", "system optimization", "open source"],
+  projects: {
+    chatApp: "P2P chat using WebRTC & Socket.IO",
+    petStore: "Management system built with PHP & MySQL",
+    linuxRicing: "Custom Arch Linux setup with Hyprland"
+  },
+  challenge: "Keep improving as a backend dev and contribute to open source 🚀"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+<em><b>I love learning, customizing, and building efficient systems.</b> 
+If you want to connect or collaborate — feel free to say hi!</em> ✉️
+
+📍 Bogotá, Colombia  
+📧 mabernal12@gmail.com
+
+
+
 
 
 
