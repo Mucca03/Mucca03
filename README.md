@@ -39,10 +39,13 @@ const mucca = {
 If you want to connect or collaborate — feel free to say hi!</em> ✉️
 
 
-### 📫 Contact
-📍 Bogotá, Colombia  
-📧 [mabernal12@gmail.com](mailto:mabernal12@gmail.com)
-🚀 Open to backend or full-stack junior opportunities.
+<h3 align="center">📫 Contact</h3>
+<p align="center">
+📍 Bogotá, Colombia | 
+📧 <a href="mailto:mabernal12@gmail.com">mabernal12@gmail.com</a> | 
+🚀 Open to backend or full-stack junior opportunities
+</p>
+
 
 
 
