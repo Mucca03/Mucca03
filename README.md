@@ -24,6 +24,8 @@ const mucca = {
 ```
 ---
 
+### Proyects
+
 [Chat P2P with WebRTC](https://github.com/Mucca03/chat_ptp_room_selector)
 
 [Pet Store Management System](https://github.com/Mucca03/pet-store-management-system)
@@ -36,8 +38,12 @@ const mucca = {
 <em><b>I love learning, customizing, and building efficient systems.</b> 
 If you want to connect or collaborate — feel free to say hi!</em> ✉️
 
+---
+### 📫 Contact
 📍 Bogotá, Colombia  
-📧 mabernal12@gmail.com
+📧 [mabernal12@gmail.com](mailto:mabernal12@gmail.com)
+🚀 Open to backend or full-stack junior opportunities.
+
 
 
 
