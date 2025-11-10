@@ -25,8 +25,7 @@ const mucca = {
   challenge: "Keep improving as a backend dev and contribute to open source 🚀"
 }
 ```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60"> 
 <em><b>I love learning, customizing, and building efficient systems.</b> 
 If you want to connect or collaborate — feel free to say hi!</em> ✉️
 
