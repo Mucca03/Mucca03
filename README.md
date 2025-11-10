@@ -42,7 +42,6 @@ If you want to connect or collaborate — feel free to say hi!</em> ✉️
 ### 📫 Contact
 📍 Bogotá, Colombia  
 📧 [mabernal12@gmail.com](mailto:mabernal12@gmail.com)
-
 🚀 Open to backend or full-stack junior opportunities.
 
 
