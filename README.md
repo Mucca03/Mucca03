@@ -1,10 +1,9 @@
-<h2> Hi, I'm Mauricio Bernal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Alejandro Bernal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p><em>Software Developer | Backend & Systems Enthusiast 
 Currently exploring <b>Node.js</b>, <b>Linux</b> customization and backend architectures.</em></p>
 
 [![Linkedin: Alejandro Bernal](https://img.shields.io/badge/-alejandro--bernal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandro-bernal-577686260/)](https://www.linkedin.com/in/alejandro-bernal-577686260/)
-[![GitHub Mucca03](https://img.shields.io/github/followers/Mucca03?label=follow&style=social)](https://github.com/Mucca03)
 
 ---
 
