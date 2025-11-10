@@ -13,7 +13,7 @@ Currently exploring <b>Node.js</b>, <b>Linux</b> customization and backend archi
 const mucca = {
   code: ["JavaScript", "Node.js", "PHP", "C++", "SQL"],
   tools: ["Express", "Bootstrap", "Git", "Linux", "Bash"],
-  interests: ["backend", "system optimization", "open source"],
+  interests: ["fullstack", "system optimization", "open source"],
   projects: {
     chatApp: "P2P chat using WebRTC & Socket.IO",
     petStore: "Management system built with PHP & MySQL",
