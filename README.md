@@ -38,7 +38,7 @@ const mucca = {
 <em><b>I love learning, customizing, and building efficient systems.</b> 
 If you want to connect or collaborate — feel free to say hi!</em> ✉️
 
----
+
 ### 📫 Contact
 📍 Bogotá, Colombia  
 📧 [mabernal12@gmail.com](mailto:mabernal12@gmail.com)
