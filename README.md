@@ -9,7 +9,7 @@ Currently exploring <b>Node.js</b>, <b>Linux</b> customization and backend archi
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const mucca = {
@@ -25,7 +25,7 @@ const mucca = {
   challenge: "Keep improving as a backend dev and contribute to open source 🚀"
 }
 ```
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60"> 
+
 <em><b>I love learning, customizing, and building efficient systems.</b> 
 If you want to connect or collaborate — feel free to say hi!</em> ✉️
 
