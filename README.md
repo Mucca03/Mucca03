@@ -24,8 +24,10 @@ const mucca = {
 ```
 ---
 
-[Chat P2P with WebRTC](https://github.com/Mucca03/chat_ptp_room_selector) 
+[Chat P2P with WebRTC](https://github.com/Mucca03/chat_ptp_room_selector)
+
 [Pet Store Management System](https://github.com/Mucca03/pet-store-management-system)
+
 [Arch Linux Ricing](https://github.com/Mucca03/GearBlue-Ricing)
 
 ---
