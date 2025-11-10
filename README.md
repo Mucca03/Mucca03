@@ -1,5 +1,4 @@
 <h2> Hi, I'm Mauricio Bernal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 <p><em>Software Developer | Backend & Systems Enthusiast 🧠  
 Currently exploring <b>Node.js</b>, <b>Linux</b> customization and backend architectures.</em></p>
