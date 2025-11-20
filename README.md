@@ -50,13 +50,17 @@ const mucca = {
 
 ### Projects
 
-**Chat P2P with WebRTC**  
-Real-time communication using WebRTC & Socket.IO  
-🔗 https://github.com/Mucca03/chat_ptp_room_selector  
-
 **Pet Store Management System**  
 PHP + MySQL system for store management  
 🔗 https://github.com/Mucca03/pet-store-management-system  
+
+**Forward Chaining Inference Engine**  
+Rule-based inference engine with forward chaining and Swing GUI  
+🔗 https://github.com/Mucca03/ForwardLogic-Engine
+
+**Chat P2P with WebRTC**  
+Real-time communication using WebRTC & Socket.IO  
+🔗 https://github.com/Mucca03/chat_ptp_room_selector  
 
 **Arch Linux Ricing**  
 Custom Linux config with Hyprland  
