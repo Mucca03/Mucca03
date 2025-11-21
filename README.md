@@ -12,16 +12,16 @@ Hi, I'm Alejandro Bernal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AE
 ### A little more about me...
 ```javascript
 const mucca = {
-  code: ["JavaScript", "Node.js", "PHP", "C++", "SQL"],
-  tools: ["Express", "Bootstrap", "Git", "Linux", "Bash"],
-  interests: ["backend", "system optimization", "open source"],
+  languages: ["JavaScript", "Node.js", "PHP", "C++", "SQL"],
+  tools: ["Express", "Linux", "Bash", "Git", "Bootstrap"],
+  interests: ["backend engineering", "system design", "real-time communication", "open source"],
   projects: {
-    chatApp: "P2P chat using WebRTC & Socket.IO",
-    petStore: "Management system built with PHP & MySQL",
-    linuxRicing: "Custom Arch Linux setup with Hyprland"
+    chatApp: "Real-time P2P chat built with WebRTC and Socket.IO",
+    petStore: "Backend management system using PHP and MySQL",
+    linuxRicing: "Custom Arch Linux setup with Hyprland and system automation"
   },
-  challenge: "Keep improving as a backend dev and contribute to open source 🚀"
-}
+  focus: "Becoming stronger in backend architecture, performance, and clean system design.",
+};
 ```
 
 
