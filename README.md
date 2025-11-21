@@ -4,7 +4,7 @@ Hi, I'm Alejandro Bernal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AE
 <div align='center'>
 </h2> <p><em>Software Developer | Backend & Systems Enthusiast Currently exploring <b>Node.js</b>, <b>Linux</b> customization and backend architectures.</em></p> 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro_Bernal-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrobernal--/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro_Bernal-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrobernalr/)
 [![GitHub Mucca03](https://img.shields.io/github/followers/Mucca03?label=follow&style=social)](https://github.com/Mucca03)
 </div>
 
