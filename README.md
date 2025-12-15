@@ -16,10 +16,12 @@ I enjoy working close to the building APIs, designing databases, working in Linu
 
 
 ### What I usually work with
-- JavaScript / Node.js
-- PHP & SQL databases
-- REST APIs and backend logic
-- Linux, Bash, Git
+- **Languages:** JavaScript, PHP, Java, SQL
+- **Backend:** Node.js, REST APIs, backend logic
+- **Databases:** MySQL
+- **Systems:** Linux (Arch), Bash
+- **Tools:** Git, GitHub
+- **Frontend:** HTML, CSS, Tailwind, Bootstrap
 
 ---
 
@@ -29,6 +31,10 @@ I enjoy working close to the building APIs, designing databases, working in Linu
 PHP + MySQL system for store management  
 🔗 https://github.com/Mucca03/pet-store-management-system  
 
+**Bakery Website**  
+Frontend-focused website built to show UI structure, JavaScript interaction, and responsive design.  
+🔗 https://github.com/Mucca03/bakery-website
+
 **Forward Chaining Inference Engine**  
 Rule-based inference engine with forward chaining and Swing GUI  
 🔗 https://github.com/Mucca03/ForwardLogic-Engine
@@ -37,14 +43,9 @@ Rule-based inference engine with forward chaining and Swing GUI
 Real-time communication using WebRTC & Socket.IO  
 🔗 https://github.com/Mucca03/chat_ptp_room_selector  
 
-**Arch Linux Ricing**  
-Custom Linux config with Hyprland  
-🔗 https://github.com/Mucca03/GearBlue-Ricing  
-
 ---
 
 ### Additional Skills
-- Styling tools: Bootstrap, Tailwind
 - Design tools: Photoshop, Illustrator, Figma
 
 ### Currently focusing on
