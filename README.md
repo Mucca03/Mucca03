@@ -27,6 +27,10 @@ I enjoy working close to the building APIs, designing databases, working in Linu
 
 ### Projects
 
+**Asty · Petshop Manager**  
+Full-stack pet shop management system featuring client, pet, and service tracking with real-time financial analytics and dashboard metrics.  
+🔗 https://github.com/Mucca03/asty-petshop-manager
+
 **Pet Store Management System**  
 PHP + MySQL system for store management  
 🔗 https://github.com/Mucca03/pet-store-management-system  
@@ -34,10 +38,6 @@ PHP + MySQL system for store management
 **Bakery Website**  
 Frontend-focused website built to show UI structure, JavaScript interaction, and responsive design.  
 🔗 https://github.com/Mucca03/bakery-website
-
-**Forward Chaining Inference Engine**  
-Rule-based inference engine with forward chaining and Swing GUI  
-🔗 https://github.com/Mucca03/ForwardLogic-Engine
 
 **Chat P2P with WebRTC**  
 Real-time communication using WebRTC & Socket.IO  
@@ -61,18 +61,3 @@ Improving my skills in backend architecture, performance optimization, and clean
 🚀 Open to backend or full-stack junior opportunities
 </p>
 
-
-<!--
-**Mucca03/Mucca03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
